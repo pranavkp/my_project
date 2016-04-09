@@ -1,0 +1,2 @@
+hi
+This s sample text file.
